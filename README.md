@@ -159,7 +159,7 @@ response:
 
   http://localhost:8000/addadress?id=user_id**\*\***\***\*\***
 
-  The Address array is limited to two values home and work address more than two address is not acceptable
+  The Address array is limited to 2 values home and work address more than two address is not acceptable
 
 ```json
 {
